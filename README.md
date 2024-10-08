@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Hugo DesRosiers, known as @hd-boardingcity.
+- 👀 I’m interested in large urban development, technology, entrepreneurship, teamwork and open-source software communities.
+- 🌱 I’m currently learning how to use PHP's SAPI to use PHP as an embedded engine for a new routing/hoisting front-end, and PHP's semantics to do automatic conversion into Haskell code.
+- 💞️ I’m looking to collaborate on the [FUDD project](https://whatsupfudd.com), and Haskell deployment in general.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hugo-desrosiers/).
+- ⚡ Fun fact: I started coding by writing assembly on paper, based on a Fairchild 4 bits chip documentation I had received in a school project back in 1976. I still write a lot of my code "by hand", but not on physical paper anymore.
